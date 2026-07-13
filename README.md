@@ -1,6 +1,6 @@
 RetailSync Assistant
 
-[![Open in ChatGPT](https://chatgpt.com/g/g-6a553202e0888191818b93ea81366dad-retailsync-assistant)
+[[Open in ChatGPT]- (https://chatgpt.com/g/g-6a553202e0888191818b93ea81366dad-retailsync-assistant)
 
 A conversational AI assistant designed for small-scale apparel retailers and boutique owners to effortlessly manage inventory logs, track stock updates, and generate daily sales summaries using natural language.
 
